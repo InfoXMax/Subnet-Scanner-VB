@@ -1,0 +1,8 @@
+0 (0x0)Log Off
+4 (0x4)Forced Log Off (0 + 4)
+1 (0x1)Shutdown
+5 (0x5)Forced Shutdown (1 + 4)
+2 (0x2)Reboot
+6 (0x6)Forced Reboot (2 + 4)
+8 (0x8)Power Off
+12 (0xC)Forced Power Off (8 + 4)
